@@ -10,6 +10,14 @@ body {
     flex-direction: column;
 }
 
+.header{
+    background: #1F2937;
+}
+
 .content{
     flex: 1;
+}
+
+.footer{
+    background: #1F2937;
 }
