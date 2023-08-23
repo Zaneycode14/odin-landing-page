@@ -11,7 +11,10 @@ body {
 }
 
 .header{
+    display: flex;
     background: #1F2937;
+    color: white;
+    font-weight: 300;
 }
 
 .content{
