@@ -29,6 +29,11 @@ a{
     font-weight: 300;
 }
 
+.header-links{
+    display:flex;
+    gap: 10px;
+}
+
 .content{
     flex: 1;
 }
