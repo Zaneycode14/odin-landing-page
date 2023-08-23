@@ -21,6 +21,9 @@ a{
 
 .header{
     display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 200px;
     background: #1F2937;
     color: white;
     font-weight: 300;
