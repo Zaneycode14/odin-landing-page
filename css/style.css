@@ -34,6 +34,15 @@ a{
     gap: 10px;
 }
 
+.below-header{
+    background: #1F2937;
+    color: white;
+}
+
+.placeholder-image{
+    background: gray;
+}
+
 .content{
     flex: 1;
 }
