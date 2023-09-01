@@ -41,7 +41,14 @@ a{
 }
 
 .placeholder-image{
+    display: flex;
+    align-items:center;
+    justify-content:center;
     background: gray;
+    margin: 30px;
+    padding: 15px;
+    width: 500px;
+    height: 150px;
 }
 
 .content{
