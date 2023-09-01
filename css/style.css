@@ -41,6 +41,10 @@ a{
     padding-right: 120px;
 }
 
+.BH-left{
+    padding-left: 150px;
+}
+
 .placeholder-image{
     display: flex;
     align-items:center;
