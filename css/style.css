@@ -46,6 +46,14 @@ a{
     padding-left: 150px;
 }
 
+.signup{
+    border-radius:5px;
+    color: white;
+    background: #3882f6;
+    border: none;
+    padding: 5px 20px;
+}
+
 .placeholder-image{
     display: flex;
     align-items:center;
