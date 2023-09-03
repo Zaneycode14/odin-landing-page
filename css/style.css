@@ -47,6 +47,12 @@ a{
     padding-left: 150px;
 }
 
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+    height:65px;  
+}
+
 .signup{
     border-radius:5px;
     color: white;
@@ -62,7 +68,7 @@ a{
     background: gray;
     margin: 30px;
     padding: 15px;
-    width: 500px;
+    width: 800px;
     height: 150px;
 }
 
