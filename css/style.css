@@ -101,6 +101,15 @@ h1{
    height: 120px;
 }
 
+.quote{
+    background-color: #E5E7EB
+ }
+ 
+ blockquote{
+    font-size: 36px;
+    color:#1F2937;
+ }
+
 .footer{
     background: #1F2937;
 }
