@@ -37,14 +37,18 @@ a{
 
 .below-header{
     display: flex;
+    justify-content: center;
     background: #1F2937;
     color: white;
     padding-right: 120px;
     padding-bottom: 70px;
+    width: 100%;
 }
 
-.BH-left{
-    padding-left: 150px;
+.BH-container{
+   display: flex;
+   align-items: center;
+   max-width: 700px;
 }
 
 h1{
