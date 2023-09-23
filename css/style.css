@@ -143,6 +143,10 @@ h1{
     padding: 20px;
     margin: 75px;
  }
+
+ .Sign-up p{
+    font-size: 13px;
+}
  
  .Sign-up button{
      align-self: center;
