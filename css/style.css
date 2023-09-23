@@ -134,18 +134,23 @@ h1{
     background: white;
 }
 
- .Sign-up{
+.Sign-up{
     display: flex;
-    justify-content: center;
+    gap: 200px;
     border-radius:5px;
     color: white;
     background: #3882f6;
-    padding: 20px;
+    padding: 20px 100px;
     margin: 75px;
  }
 
+.Sign-up h4{
+    height: 1px;
+    font-weight: bolder;
+}
+
  .Sign-up p{
-    font-size: 13px;
+    font-size: 12px;
 }
  
  .Sign-up button{
