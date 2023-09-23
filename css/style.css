@@ -83,6 +83,15 @@ h1{
     align-items:center;
 }
 
+.pictures{
+    margin: 30px 0px 70px 0px;
+ }
+ 
+ .pictures h2{
+     display:flex;
+     justify-content:center;
+ }
+
 .container{
     display:flex;
     padding: 0px 100px;
