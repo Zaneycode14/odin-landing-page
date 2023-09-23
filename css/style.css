@@ -1,11 +1,8 @@
-
-
-
 body {
     height: 100vh;
     margin: 0;
     overflow: scroll;
-    font-family: hero, sans-serif;
+    font-family: sans-serif;
     display: flex;
     flex-direction: column;
 }
